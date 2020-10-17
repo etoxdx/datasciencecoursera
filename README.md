@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science Repository for Course Era
+Git-Hub Repository for Data Science  (Course Era Purposes)
